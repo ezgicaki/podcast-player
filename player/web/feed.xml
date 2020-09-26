@@ -1,64 +1,59 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-  <channel>
-    <title>Creative Engineering</title>
-    <googleplay:author>Rody Davis, Norbert Kozsir</googleplay:author>
-    <rawvoice:rating>TV-G</rawvoice:rating>
-    <rawvoice:location>San Francisco, California</rawvoice:location>
-    <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Rody Davis, Norbert Kozsir</author>
-    <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-    <itunes:email>rody.davis.jr@gmail.com</itunes:email>
-    <itunes:category text="Technology" />
-    <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
-      <title>Creative Engineering</title>
-      <link>https://rodydavis.github.io/podcast-player/</link>
-    </image>
-    <itunes:owner>
-      <itunes:name>Rody Davis</itunes:name>
-      <itunes:email>rody.davis.jr@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
-    <copyright>Rody Davis Productions 2020</copyright>
-    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
-    <language>en-us</language>
-    <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
-    <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Flutter Desktop/Web and VR</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
-      <itunes:duration>54:08</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:886362037/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:886362037/sounds.rss?before=900017152" rel="next" type="application/rss+xml"/>
+        <title>Ezgi</title>
+        <link>https://soundcloud.com/user-365677189</link>
+        <pubDate>Sat, 26 Sep 2020 16:07:18 +0000</pubDate>
+        <lastBuildDate>Sat, 26 Sep 2020 16:07:18 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Podcast by Ezgi</description>
+        <itunes:subtitle>Podcast by Ezgi</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Ezgi</itunes:name>
+          <itunes:email>ezgicaki@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Ezgi</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://a1.sndcdn.com/images/default_avatar_original.png"/>
+        <image>
+          <url>https://a1.sndcdn.com/images/default_avatar_original.png</url>
+          <title>Ezgi</title>
+          <link>https://soundcloud.com/user-365677189</link>
+        </image>
+        <itunes:category text="Arts"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/900017152</guid>
+      <title>Deneme 1</title>
+      <pubDate>Sat, 26 Sep 2020 16:07:18 +0000</pubDate>
+      <link>https://soundcloud.com/user-365677189/deneme-1</link>
+      <itunes:duration>00:00:17</itunes:duration>
+      <itunes:author>Ezgi</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <description>
-Norbert Kozsir - @norbertkozsir
-
-https://twitter.com/norbertkozsir
-
-https://github.com/norbert515
-
-
-Rody Davis - @rodydavis
-
-https://twitter.com/rodydavis
-
-https://github.com/rodydavis
-
-https://youtube.com/rodydavis
-
-https://rodydavis.com
-
-Our podcast player: 
-
-https://rodydavis.github.io/podcast-player/
-        </description>
+      <itunes:summary>deneme1</itunes:summary>
+      <itunes:subtitle>deneme1</itunes:subtitle>
+      <description>deneme1</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/900017152-user-365677189-deneme-1.mp3" length="695957"/>
+      <itunes:image href="https://a1.sndcdn.com/images/default_avatar_original.png"/>
     </item>
-  </channel>
-</rss>
+        
+    <item>
+      <guid isPermaLink="false">github1</guid>
+      <title>Deneme 2</title>
+      <pubDate>Sat, 26 Sep 2020 17:07:18 +0000</pubDate>
+      <itunes:duration>00:00:31</itunes:duration>
+      <itunes:author>Ezgi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>deneme2</itunes:summary>
+      <itunes:subtitle>deneme2</itunes:subtitle>
+      <description>deneme2</description>
+      <enclosure type="audio/mpeg" url="https://ezgicaki.github.io/podcast-player/player/web/audio/deneme2.mp3"/>
+      <itunes:image href="https://ezgicaki.github.io/podcast-player/player/web/icons/icon-512.png"/>
+    </item>
+        
+      </channel>
+    </rss>
