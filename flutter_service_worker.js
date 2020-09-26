@@ -6,6 +6,7 @@ const RESOURCES = {
   "feed.xml": "644239d0b067c1fdfa0875855a39c15b",
 "version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
 "main.dart.js": "1645b25cb8614ea6a0c0f7e03c9ae4f7",
+"audio/deneme2.mp3": "5e56e189a8326233c60bb4d9f879d78b",
 "audio/01-create-eng.mp3": "83d1e1f303e4b8f4cee1cadd9ad75555",
 "assets/NOTICES": "162ea3c2ab0dedad9524289f8e9879dc",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
